@@ -3,7 +3,7 @@
 Given a string s, find the length of the longest substring without repeating characters.
 
 ✅ Code Transcript:
-java
+```java
 Copy
 Edit
 public int lengthOfLongestSubstring(String s)
